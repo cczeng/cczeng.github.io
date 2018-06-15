@@ -150,23 +150,6 @@
 
     
   <url>
-    <loc>https://cczeng.github.io/2017/07/01/JavaScript/JavaScript-%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-06-12T10:06:39.019Z</lastmod>
-    <data>
-        <display>
-        <title>JavaScript 数组方法</title>
-        <pubTime>2017-07-01T07:24:28.000Z</pubTime>
-        
-        <tag>JS</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://cczeng.github.io/2017/05/12/C/TelephoneBook/C%E8%AF%AD%E8%A8%80%E4%B9%8B%E7%94%B5%E8%AF%9D%E6%BA%A5-%E4%B8%80/</loc>
     <lastmod>2018-06-12T10:06:39.019Z</lastmod>
     <data>
@@ -203,6 +186,23 @@
 
     
   <url>
+    <loc>https://cczeng.github.io/2017/07/01/JavaScript/JavaScript-%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-06-12T10:06:39.019Z</lastmod>
+    <data>
+        <display>
+        <title>JavaScript 数组方法</title>
+        <pubTime>2017-07-01T07:24:28.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://cczeng.github.io/2017/05/16/C%20Sharp/C-%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2018-06-12T10:06:39.018Z</lastmod>
     <data>
@@ -222,16 +222,16 @@
 
     
   <url>
-    <loc>https://cczeng.github.io/2017/05/21/C/C%E8%AF%AD%E8%A8%80%E4%B9%8B%E2%80%94%E2%80%94-%E7%BB%93%E6%9E%84%E3%80%81%E8%81%94%E5%90%88%E3%80%81%E6%9E%9A%E4%B8%BE%E3%80%81typedef/</loc>
+    <loc>https://cczeng.github.io/2017/08/10/Angular2/%E5%85%B3%E4%BA%8Eangular2%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E5%BC%95%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93PrimeNG/</loc>
     <lastmod>2018-06-12T10:06:39.018Z</lastmod>
     <data>
         <display>
-        <title>C语言之——-结构、联合、枚举、typedef</title>
-        <pubTime>2017-05-21T03:45:02.000Z</pubTime>
+        <title>关于angular2如何正确引入第三方库PrimeNG</title>
+        <pubTime>2017-08-10T14:18:15.000Z</pubTime>
         
-        <tag>笔记</tag>
+        <tag>Angular</tag>
          
-        <tag>C</tag>
+        <tag>笔记</tag>
          
          
            
@@ -279,16 +279,16 @@
 
     
   <url>
-    <loc>https://cczeng.github.io/2017/08/10/Angular2/%E5%85%B3%E4%BA%8Eangular2%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E5%BC%95%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93PrimeNG/</loc>
+    <loc>https://cczeng.github.io/2017/05/21/C/C%E8%AF%AD%E8%A8%80%E4%B9%8B%E2%80%94%E2%80%94-%E7%BB%93%E6%9E%84%E3%80%81%E8%81%94%E5%90%88%E3%80%81%E6%9E%9A%E4%B8%BE%E3%80%81typedef/</loc>
     <lastmod>2018-06-12T10:06:39.018Z</lastmod>
     <data>
         <display>
-        <title>关于angular2如何正确引入第三方库PrimeNG</title>
-        <pubTime>2017-08-10T14:18:15.000Z</pubTime>
+        <title>C语言之——-结构、联合、枚举、typedef</title>
+        <pubTime>2017-05-21T03:45:02.000Z</pubTime>
         
-        <tag>Angular</tag>
-         
         <tag>笔记</tag>
+         
+        <tag>C</tag>
          
          
            
